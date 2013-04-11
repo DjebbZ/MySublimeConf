@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"CoffeeScript",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HtmlTidy",
+		"JsFormat",
+		"LESS",
+		"LoremIpsum",
+		"MoveText",
+		"Package Control",
+		"PHP-Twig",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SJSON",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"Unity3D"
+	]
+}

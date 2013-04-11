@@ -1,0 +1,41 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+			{
+				"caption": "Preview",
+				"id": "side-bar-files-open-with-preview",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Preview.app", // OSX
+									"extensions":"pdf|png|jpg|jpeg|gif"  //any file with these extensions
+								}
+			},
+			{
+				"caption": "PixelMator",
+				"id": "side-bar-files-open-with-pixelmator",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "PixelMator.app", // OSX
+									"extensions":"gif|png|jpg|jpeg|psd"  //any file with these extensions
+								}
+			},
+			{ "caption": "-" },
+			{
+				"caption": "Chrome",
+				"id": "side-bar-files-open-with-chrome",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Chrome.app",
+									"extensions":".*" //any file with extension
+								}
+			}
+		]
+	}
+]

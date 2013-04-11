@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+var ${1:function name} = function(${2:args}) {
+  ${3:// body...}
+};
+]]></content>
+  <tabTrigger>nfe</tabTrigger>
+  <scope>source.js</scope>
+  <description>Named Function Expression</description>
+</snippet>

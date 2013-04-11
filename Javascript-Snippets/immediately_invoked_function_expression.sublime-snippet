@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+(function(${1:formal args}) {
+  ${3:// body...}
+})(${2:actual args});
+]]></content>
+  <tabTrigger>ifun</tabTrigger>
+  <scope>source.js</scope>
+  <description>Immediately Invoked Function Expression</description>
+</snippet>

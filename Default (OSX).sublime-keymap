@@ -1,0 +1,6 @@
+[
+	{ "keys": ["super+shift+r"], "command": "show_panel", "args": {"panel": "replace"} },
+	{ "keys": ["super+shift+1"], "command": "toggle_side_bar"},
+  { "keys": ["super+alt+ctrl+up"], "command": "move_text_up" },
+  { "keys": ["super+alt+ctrl+down"], "command": "move_text_down" }
+]

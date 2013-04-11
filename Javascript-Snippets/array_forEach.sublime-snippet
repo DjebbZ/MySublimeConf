@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+.forEach(function(${1:value}${2:, index}${3:, array}) {
+  ${5:// body...}
+}${4:, this});
+]]></content>
+  <tabTrigger>.forEach</tabTrigger>
+  <scope>source.js</scope>
+  <description>Array#forEach</description>
+</snippet>

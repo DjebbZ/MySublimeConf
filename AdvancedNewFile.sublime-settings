@@ -1,0 +1,5 @@
+{
+  // A boolean specifying if the file path being created should be displayed in
+  // the status bar.
+  "show_path": true
+}
